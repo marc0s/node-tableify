@@ -1,0 +1,10 @@
+{
+  "name": "tableify",
+  "version": "1.0.0",
+  "main": "./dist/tableify.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
